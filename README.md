@@ -1,2 +1,2 @@
 # Rust-Practice
-This is Rust practice library
+This is Rust practice repositort
